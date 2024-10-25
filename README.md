@@ -4,7 +4,7 @@ Python1:
 ![image](https://github.com/user-attachments/assets/111c074a-d9f5-48b4-bc55-1c848c4bfa49)
 
 Python2:
-![image](https://github.com/user-attachments/assets/1410ae3f-399c-4251-a554-da5d4c1c0d4d)
+![image](https://github.com/user-attachments/assets/3f122808-11ef-41ea-b070-65cf81d22958)
 
 
 Python3:
